@@ -24,7 +24,7 @@
             <nav>
                 <ul class="navbar">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="About.html">About</a></li>
+                    <li><a href="about.html">About</a></li>
                     <li><a href="work.html">My Work</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
